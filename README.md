@@ -1,12 +1,12 @@
 # 1st-Python Crawler Marathon
 
-爬蟲基礎知識 Web crawler basics 
-DAY1: 資料來源與檔案存取 
-DAY2: Python下載CSV檔案與解析 
-DAY3: Python下載XML檔案與解析 
-DAY4: HTTP Server-Client架構說明與利用Python存取API 
-DAY5: API資料串接 - 基本API + JSON 
-DAY6: API資料串接 - Headers 
+爬蟲基礎知識 Web crawler basics  
+DAY1: 資料來源與檔案存取  
+DAY2: Python下載CSV檔案與解析  
+DAY3: Python下載XML檔案與解析  
+DAY4: HTTP Server-Client架構說明與利用Python存取API  
+DAY5: API資料串接 - 基本API + JSON  
+DAY6: API資料串接 - Headers  
 
 靜態網頁爬蟲技術 Static web page 
 DAY7: HTTP靜態網頁架構說明與淺談HTML/CSS/JavaScript 
